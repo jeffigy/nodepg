@@ -1,0 +1,25 @@
+{
+    "name": "nodepg",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test-nodepg": "node index.js",
+        "evangelista-prob1": "node evangelista-prob1.js",
+        "evangelista-prob2": "node evangelista-prob2.js",
+        "evangelista-prob3": "node evangelista-prob3.js",
+        "evangelista-prob4": "node evangelista-prob4.js",
+        "evangelista-prob5": "node evangelista-prob5.js",
+        "evangelista-prob6": "node evangelista-prob6.js",
+        "evangelista-prob7": "node evangelista-prob7.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "pg": "^7.18.1"
+    }
+}
